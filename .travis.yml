@@ -1,3 +1,5 @@
+# Adding sudo false to test this fix : https://stackoverflow.com/questions/39411060/travis-ci-android-build-failed-no-connected-devices-error
+sudo: false
 language: android
 android:
   components:
